@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4247558c-e601-4337-9845-bd6db0be3008" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/satya/LaunchingBrowser.java" afterDir="false" />
-    </list>
+    <list default="true" id="4247558c-e601-4337-9845-bd6db0be3008" name="Changes" comment="SeleniumPractice" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +68,19 @@
       <option name="presentableId" value="Default" />
       <updated>1738505094601</updated>
     </task>
+    <task id="LOCAL-00001" summary="SeleniumPractice">
+      <option name="closed" value="true" />
+      <created>1738516900433</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738516900433</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SeleniumPractice" />
+    <option name="LAST_COMMIT_MESSAGE" value="SeleniumPractice" />
   </component>
 </project>
